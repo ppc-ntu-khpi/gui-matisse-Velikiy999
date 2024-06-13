@@ -27,7 +27,7 @@ public class NewJFrame extends javax.swing.JFrame {
     }
 
     private void loadCustomers() {
-        DataSource dataSource = new DataSource("C:/Users/Саша/Desktop/ОПІООП/GUI2/data/test.dat");
+        DataSource dataSource = new DataSource("data/test.dat");
         try {
             dataSource.loadData();
         } catch (IOException e) {
