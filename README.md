@@ -5,6 +5,7 @@
 
 ## Завдання на 4
 ![](misc/screen2.png)
+![](misc/screen3.png)
 
 ## Завдання на 5
-![](misc/screen3.png)
+![](misc/screen4.png)
